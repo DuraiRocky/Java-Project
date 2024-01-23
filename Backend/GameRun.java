@@ -52,6 +52,7 @@ class Contra{
 
 	void left(){
 		System.out.print("Contra Left");
+		System.out.print("Contra Left");
 	}
 
 	void right(){
